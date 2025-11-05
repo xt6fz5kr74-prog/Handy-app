@@ -1,2 +1,2 @@
-# Handy-app
-Handy App 
+# Handyapp
+HandyApp 
